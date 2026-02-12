@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi 👋 I'm Shashank Samudrala
 
-<!--
-**shashank-samudrala/shashank-samudrala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 First Year CSE (AIML) Student at SR University   
+🐍 Python Developer  
+🤖 Aspiring AI/ML Engineer  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+- 🌱 Currently learning Python & Data Structures
+- 🤖 Exploring Artificial Intelligence & Machine Learning
+- 💡 Passionate about problem solving
+- 🎯 Goal: Become an AI Engineer
+
+---
+
+## 🛠 Skills
+
+- Python
+- Problem Solving
+- Git & GitHub (Beginner)
+
+---
+
+## 📈 2026 Goals
+
+- Build 10+ Python Projects
+- Learn Machine Learning fundamentals
+- Participate in hackathons
